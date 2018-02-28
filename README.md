@@ -1,5 +1,5 @@
 # TEST-PROJECT
-This is a class project :P 
+This is a class project
 <!DOCTYPE html>
 <html>
 <body>
